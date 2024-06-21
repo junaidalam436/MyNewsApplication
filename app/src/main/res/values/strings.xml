@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MyNewsApplication</string>
+    <string name="no_biometric_feature_available">"No biometric features available on this device."</string>
+    <string name="biometric_feature_are_currently_unavailable">"Biometric features are currently unavailable."</string>
+    <string name="authentication_error">"Authentication error"</string>
+    <string name="authentication_succeeded">"Authentication succeeded!"</string>
+    <string name="authentication_failed">"Authentication failed!"</string>
+    <string name="biometric_login_for_my_app">"Biometric login for My App"</string>
+    <string name="login_using_biometric">"Log in using your biometric credential or device credentials"</string>
+    <string name="please_enroll_at_least_one_fingerprint">"Please enroll at least one fingerprint in your device settings."</string>
+
 </resources>
